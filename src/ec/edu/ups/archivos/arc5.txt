@@ -1,0 +1,1 @@
+Es una manera de representar datos de textos cuando se modela texto con algoritmos de aprendizaje automático
